@@ -1,0 +1,16 @@
+<%- include('header') %>
+
+<div class="Name-Page">
+
+    <div class="form">
+        <form  action="/join" method="post">
+            <h1>Join Meeting</h1>
+            <input type="text" placeholder="Enter your name" name="name" />
+            <input type="text" placeholder="Enter Meeting Id" name="meeting_id" />
+            
+           <button type="submit" class="btn btn-dark btn-lg">Launch Meeting</button>
+        </form>
+    </div>
+</div>
+
+<%- include('footer') %>
