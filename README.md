@@ -49,7 +49,7 @@ Feel free to contribute to the project! Fork the repository, make your changes, 
 
 ## Contact 📧
 
-For any questions or feedback, please reach out to [your-email@example.com](mailto:ujjwalmishra714@gmail.com).
+For any questions or feedback, please reach out to mail(mailto:ujjwalmishra714@gmail.com).
 
 ---
 
